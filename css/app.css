@@ -5991,3 +5991,9 @@ th.hide-for-touch {
 .question {
   border-top: 1px solid #d8f9fd;
   padding-top: 10px; }
+
+table.schedule {
+  width: 100%;
+  height: 250px; }
+  table.schedule th {
+    width: 70px; }
