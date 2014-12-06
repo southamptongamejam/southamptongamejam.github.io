@@ -1,0 +1,52 @@
+@import "settings";
+@import "foundation";
+
+$GGJ: #5fe8f7;
+
+
+::selection {
+    background: rgba(95, 232, 247, 0.99);
+}
+
+.section {
+    padding: 1em;
+}
+
+.alt {
+    background: lighten($GGJ, 30%);
+    border-bottom: 2px solid lighten($GGJ, 25%);
+    border-top: 2px solid lighten($GGJ, 25%);
+}
+
+#home {
+
+    background: $GGJ;
+    border-bottom: 2px solid darken($GGJ, 20%);
+    border-top: 2px solid darken($GGJ, 20%);
+
+
+    text-align: center;
+
+    img {
+        width: 200px;
+    }
+
+    .address {
+        font-weight: lighter;
+    }
+
+    .buttons {
+        padding-top: 1em;
+    }
+}
+
+
+[data-magellan-expedition] {
+    padding: 0;
+    background: transparent;
+}
+
+.question {
+    border-top: 1px solid lighten($GGJ, 25%);
+    padding-top: 10px;
+}
