@@ -6866,6 +6866,10 @@ th.hide-for-touch {
     text-decoration: underline; }
   #home .buttons {
     padding-top: 1em; }
+  #home ::selection {
+    background-color: black;
+    color: #5fe8f7;
+  }
 
 [data-magellan-expedition] {
   padding: 0;
