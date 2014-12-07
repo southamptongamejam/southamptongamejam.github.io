@@ -6881,3 +6881,11 @@ table.schedule {
   color: #FFF;
   font-size: 2em;
   margin-right: 10px; }
+
+footer {
+  background: #333;
+  text-align: center; }
+  footer a {
+    color: #FFF;
+    font-size: 2em;
+    margin-right: 10px; }
