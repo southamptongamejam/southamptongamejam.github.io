@@ -6860,6 +6860,10 @@ th.hide-for-touch {
     width: 200px; }
   #home .address {
     font-weight: lighter; }
+  #home .address a {
+    color: inherit; }
+  #home .address a:hover {
+    text-decoration: underline; }
   #home .buttons {
     padding-top: 1em; }
 
