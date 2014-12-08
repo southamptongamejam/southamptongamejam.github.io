@@ -6860,16 +6860,15 @@ th.hide-for-touch {
     width: 200px; }
   #home .address {
     font-weight: lighter; }
-  #home .address a {
-    color: inherit; }
-  #home .address a:hover {
-    text-decoration: underline; }
+    #home .address a {
+      color: inherit; }
+      #home .address a:hover {
+        text-decoration: underline; }
   #home .buttons {
     padding-top: 1em; }
   #home ::selection {
     background-color: black;
-    color: #5fe8f7;
-  }
+    color: #5fe8f7; }
 
 [data-magellan-expedition] {
   padding: 0;
