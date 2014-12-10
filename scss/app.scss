@@ -102,3 +102,18 @@ footer {
     }
 }
 
+
+.sponsor {
+
+    &#bcs {
+        img {
+            // Arbitrary - seems to work
+            width: 78px;
+        }
+    }
+    img {
+        @media #{$small-only} {
+            width: 100% !important;
+        }
+    }
+}

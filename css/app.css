@@ -6896,3 +6896,9 @@ footer {
     color: #FFF;
     font-size: 2em;
     margin-right: 10px; }
+
+.sponsor#bcs img {
+  width: 78px; }
+@media only screen and (max-width: 40em) {
+  .sponsor img {
+    width: 100% !important; } }

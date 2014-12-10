@@ -3633,6 +3633,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/bcs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117677,
+		"inputAbbreviatedPath": "\/img\/bcs.png",
+		"outputAbbreviatedPath": "\/img\/bcs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/dojo-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
