@@ -6897,6 +6897,10 @@ footer {
     font-size: 2em;
     margin-right: 10px; }
 
+.sponsor#ecs {
+  padding-top: 33px; }
+.sponsor#soton {
+  padding-top: 50px; }
 .sponsor#bcs {
   text-align: center;
   padding-top: 15px; }
