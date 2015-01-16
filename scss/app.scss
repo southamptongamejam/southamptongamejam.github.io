@@ -106,21 +106,32 @@ footer {
 .sponsor {
 
     &#ecs {
-        padding-top: 33px;
+        padding-top: 15px;
     }
 
     &#soton {
-        padding-top: 50px;
+        padding-top: 35px;
     }
 
     &#bcs {
         text-align: center;
-        padding-top:15px;
+        padding-top: 15px;
+
+        height: 200px;
         img {
             // Arbitrary - seems to work
             width: 78px;
+
+            @media #{$small-only} {
+                width: 130px !important;
+            }
         }
     }
+
+    &#dojo {
+        padding-top: 15px;
+    }
+    
     img {
         @media #{$small-only} {
             width: 100% !important;

@@ -6900,14 +6900,20 @@ footer {
 .sponsor {
   text-align: center; }
   .sponsor#ecs {
-    padding-top: 33px; }
+    padding-top: 15px; }
   .sponsor#soton {
-    padding-top: 50px; }
+    padding-top: 35px; }
   .sponsor#bcs {
     text-align: center;
-    padding-top: 15px; }
+    padding-top: 15px;
+    height: 200px; }
     .sponsor#bcs img {
       width: 78px; }
+      @media only screen and (max-width: 40em) {
+        .sponsor#bcs img {
+          width: 130px !important; } }
+  .sponsor#dojo {
+    padding-top: 15px; }
   @media only screen and (max-width: 40em) {
     .sponsor img {
       width: 100% !important; } }
