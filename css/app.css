@@ -6897,15 +6897,17 @@ footer {
     font-size: 2em;
     margin-right: 10px; }
 
-.sponsor#ecs {
-  padding-top: 33px; }
-.sponsor#soton {
-  padding-top: 50px; }
-.sponsor#bcs {
-  text-align: center;
-  padding-top: 15px; }
-  .sponsor#bcs img {
-    width: 78px; }
-@media only screen and (max-width: 40em) {
-  .sponsor img {
-    width: 100% !important; } }
+.sponsor {
+  text-align: center; }
+  .sponsor#ecs {
+    padding-top: 33px; }
+  .sponsor#soton {
+    padding-top: 50px; }
+  .sponsor#bcs {
+    text-align: center;
+    padding-top: 15px; }
+    .sponsor#bcs img {
+      width: 78px; }
+  @media only screen and (max-width: 40em) {
+    .sponsor img {
+      width: 100% !important; } }

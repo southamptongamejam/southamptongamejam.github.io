@@ -3644,6 +3644,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/bossalien.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10476,
+		"inputAbbreviatedPath": "\/img\/bossalien.jpg",
+		"outputAbbreviatedPath": "\/img\/bossalien.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/dojo-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3662,6 +3673,17 @@
 		"initialSize": 193221,
 		"inputAbbreviatedPath": "\/img\/ggj.png",
 		"outputAbbreviatedPath": "\/img\/ggj.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/nmgames.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18466,
+		"inputAbbreviatedPath": "\/img\/nmgames.jpg",
+		"outputAbbreviatedPath": "\/img\/nmgames.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
