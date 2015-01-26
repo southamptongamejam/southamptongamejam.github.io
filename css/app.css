@@ -6917,3 +6917,13 @@ footer {
   @media only screen and (max-width: 40em) {
     .sponsor img {
       width: 100% !important; } }
+
+.finished {
+  margin: auto;
+  width: 50%; }
+
+#games ul li img {
+  max-width: 90%;
+  margin: auto; }
+#games ul li a {
+  display: block; }

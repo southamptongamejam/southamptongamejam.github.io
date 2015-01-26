@@ -3642,6 +3642,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/emails\/2015\/attendees_2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/emails\/2015\/attendees_2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/img\/bcs.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3671,6 +3680,248 @@
 		"initialSize": 39405,
 		"inputAbbreviatedPath": "\/img\/dojo-logo.png",
 		"outputAbbreviatedPath": "\/img\/dojo-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/alansexistentialcrysis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51397,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/alansexistentialcrysis.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/alansexistentialcrysis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/amazeingmuddle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124405,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/amazeingmuddle.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/amazeingmuddle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/anarchy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80307,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/anarchy.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/anarchy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/cafecarnage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19274,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/cafecarnage.jpg",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/cafecarnage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/chairs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16435,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/chairs.jpg",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/chairs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/dejavu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6721,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/dejavu.jpg",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/dejavu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/divineintervention.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31734,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/divineintervention.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/divineintervention.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/explore.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215872,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/explore.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/explore.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/extinction.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185582,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/extinction.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/extinction.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/funkyboys.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104303,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/funkyboys.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/funkyboys.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/globalgunjam.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134150,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/globalgunjam.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/globalgunjam.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/hots.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194565,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/hots.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/hots.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/itsatrap.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17015,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/itsatrap.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/itsatrap.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/jamcrawl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92593,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/jamcrawl.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/jamcrawl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/jennywasaliveonce.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11420,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/jennywasaliveonce.jpg",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/jennywasaliveonce.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/minortrouble.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122263,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/minortrouble.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/minortrouble.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/planb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79830,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/planb.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/planb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/platosisland.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75474,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/platosisland.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/platosisland.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/potentia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152919,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/potentia.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/potentia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/survive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15162,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/survive.jpg",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/survive.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/uwot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170039,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/uwot.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/uwot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/games\/ggj2015\/wevelostthegame.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166143,
+		"inputAbbreviatedPath": "\/img\/games\/ggj2015\/wevelostthegame.png",
+		"outputAbbreviatedPath": "\/img\/games\/ggj2015\/wevelostthegame.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3718,6 +3969,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/js\/app.js": {
 		"fileType": 64,

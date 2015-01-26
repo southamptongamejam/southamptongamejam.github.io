@@ -140,3 +140,25 @@ footer {
 
     text-align: center;
 }
+
+.finished {
+    margin: auto;
+    width: 50%;
+}
+
+#games {
+    ul {
+
+        li {
+
+            img {
+                max-width: 90%;
+                margin: auto;
+            }
+
+            a {
+                display: block;
+            }
+        }
+    }
+}
