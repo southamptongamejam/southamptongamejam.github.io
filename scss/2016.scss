@@ -1,0 +1,153 @@
+@import "settings";
+
+$GGJ: #F16745;
+$primary-color: $GGJ;
+$button-bg-color: darken($primary-color, 20%);
+
+@import "foundation";
+@import "../bower_components/foundation-icon-fonts/foundation-icons";
+
+
+@font-face {
+  font-family: "foundation-icons";
+  src: url("../bower_components/foundation-icon-fonts/foundation-icons.eot");
+  src: url("../bower_components/foundation-icon-fonts/foundation-icons.eot?#iefix") format("embedded-opentype"), url("../bower_components/foundation-icon-fonts/foundation-icons.woff") format("woff"), url("../bower_components/foundation-icon-fonts/foundation-icons.ttf") format("truetype"), url("../bower_components/foundation-icon-fonts/foundation-icons.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+
+::selection {
+    background: rgba($GGJ, 0.99);
+}
+
+.section {
+    padding: 1em;
+}
+
+.alt {
+    background: lighten($GGJ, 30%);
+    border-bottom: 2px solid lighten($GGJ, 25%);
+    border-top: 2px solid lighten($GGJ, 25%);
+}
+
+#home {
+
+    background: $GGJ;
+    border-bottom: 2px solid darken($GGJ, 20%);
+    border-top: none;
+
+
+    text-align: center;
+
+    img {
+        width: 200px;
+    }
+
+    .address {
+        font-weight: lighter;
+
+        a {
+            color: inherit;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .buttons {
+        padding-top: 1em;
+    }
+
+    ::selection {
+        background-color: black;
+        color: $GGJ
+    }
+}
+
+
+[data-magellan-expedition] {
+    padding: 0;
+    background: transparent;
+}
+
+.question {
+    border-top: 1px solid lighten($GGJ, 25%);
+    padding-top: 10px;
+}
+
+table.schedule {
+    width: 100%;
+    height: 250px;
+
+    th {
+        width: 70px;
+    }
+}
+
+#social {
+    a {
+        color: #FFF;
+        font-size: 2em;
+        margin-right: 10px;
+    }
+}
+
+footer {
+    background: #333;
+
+    text-align: center;   
+
+    a {
+        color: #FFF;
+        font-size: 2em;
+
+        margin-right: 10px;
+    }
+}
+
+
+.sponsor {
+
+    &.contact {
+        font-size: 7em;
+
+        a {
+            color: #000;
+        }
+    }
+
+    &#dojo {
+        padding-top: 15px;
+    }
+    
+    img {
+        @media #{$small-only} {
+            width: 100% !important;
+        }
+    }
+
+    text-align: center;
+}
+
+.finished {
+    margin: auto;
+    width: 50%;
+}
+
+#games {
+    ul {
+
+        li {
+
+            img {
+                max-width: 90%;
+                margin: auto;
+            }
+
+            a {
+                display: block;
+            }
+        }
+    }
+}
