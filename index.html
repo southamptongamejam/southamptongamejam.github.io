@@ -73,7 +73,27 @@
 
             <p>This will be our sixth year, and so far we've brought together more than 400 developers to create more than 100 games.</p>
 
-            <p>Tickets and more information will be available soon.</p>
+            <div id="eventbrite-widget-container-87875731679"></div>
+
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '87875731679',
+        iframeContainerId: 'eventbrite-widget-container-87875731679',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+            
 
             <p>Follow us on <a href="https://www.facebook.com/southamptongamejam/">Facebook</a> or <a href="https://twitter.com/sotongamejam">Twitter</a> to be informed when we have more information.</p>
 
